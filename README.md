@@ -17,7 +17,11 @@ Analyzed logs to identify:
 - Identified repeated login failures from same IP
 
 ## 📷 Screenshots
-(Add screenshots here)
+
+![SIEM Dashboard](IMG_3922.jpeg)
+![Failed Login Attempts](IMG_3923.jpeg)
+![Security Logs](IMG_3924.jpeg)
+![Logs View](IMG_3925.jpeg)
 
 ## 📚 Conclusion
 This project demonstrates basic SOC analyst skills like log monitoring, alert detection, and incident analysis.
